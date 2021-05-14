@@ -1,0 +1,39 @@
+*{
+    margin: auto;
+    margin-top: 20px;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.envoltura{
+
+    background-color: black;
+    width: 900px;
+    height: 600px;
+    padding: 20px;
+    text-align: center;
+}
+
+.envoltura h1{
+
+    color: white;
+    display: block;
+    text-align: center;
+}
+
+.envoltura img{
+    
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+
+}
+.envoltura button{
+    display: block;
+    padding: 20px;
+    background-color: teal;
+    border: 1px solid black;
+    border-radius: 5px;
+    color: white;
+    font-weight: 900;
+}
